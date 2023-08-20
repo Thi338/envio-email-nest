@@ -1,0 +1,7 @@
+POST http://localhost:3000/create-user HTTP/1.1
+content-type: application/json
+
+{
+    "email": "carvalhosilvathiago2015@gmail.com",
+    "name": "Thiago C. Silva"
+}
